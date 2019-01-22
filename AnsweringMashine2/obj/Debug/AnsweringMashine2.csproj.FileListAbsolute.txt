@@ -1,0 +1,6 @@
+C:\Users\VIktor\source\repos\AnsweringMashine2\AnsweringMashine2\bin\Debug\AnsweringMashine2.dll
+C:\Users\VIktor\source\repos\AnsweringMashine2\AnsweringMashine2\bin\Debug\AnsweringMashine2.pdb
+C:\Users\VIktor\source\repos\AnsweringMashine2\AnsweringMashine2\obj\Debug\AnsweringMashine2.csprojAssemblyReference.cache
+C:\Users\VIktor\source\repos\AnsweringMashine2\AnsweringMashine2\obj\Debug\AnsweringMashine2.csproj.CoreCompileInputs.cache
+C:\Users\VIktor\source\repos\AnsweringMashine2\AnsweringMashine2\obj\Debug\AnsweringMashine2.dll
+C:\Users\VIktor\source\repos\AnsweringMashine2\AnsweringMashine2\obj\Debug\AnsweringMashine2.pdb
